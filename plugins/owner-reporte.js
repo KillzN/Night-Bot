@@ -10,7 +10,7 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
   if (text.length < 10) throw tradutor.texto2;
   if (text.length > 1000) throw tradutor.texto3;
   const teks = `${tradutor.texto4[0]} wa.me/${m.sender.split`@`[0]}\n${tradutor.texto4[1]} ${text}\n*┴*`;
-  conn.reply('5219992095479@s.whatsapp.net', m.quoted ? teks + m.quoted.text : teks, null, {contextInfo: {mentionedJid: [m.sender]}});
+  conn.reply('51992621601@s.whatsapp.net', m.quoted ? teks + m.quoted.text : teks, null, {contextInfo: {mentionedJid: [m.sender]}});
   conn.reply('584125778026@s.whatsapp.net', m.quoted ? teks + m.quoted.text : teks, null, {contextInfo: {mentionedJid: [m.sender]}});
   m.reply(tradutor.texto5);
 };

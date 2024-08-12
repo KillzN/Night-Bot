@@ -113,14 +113,14 @@
 - THE SHADOW BROKERS - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
  
  ### `▢ ¿DUDAS SOBRE EL BOT?, CONTACTANOS`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595986460945" target="blank"><img src="https://img.shields.io/badge/AIDEN_NOTLOGIC_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51940617554" target="blank"><img src="https://img.shields.io/badge/GATITO_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/593991398786" target="blank"><img src="https://img.shields.io/badge/CARLOSTWT_COLAB.5-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51996089079" target="blank"><img src="https://img.shields.io/badge/GHOST_COLAB.6-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51995386439" target="blank"><img src="https://img.shields.io/badge/NEKOSMICMATT_COLAB.7-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/593959425714" target="blank"><img src="https://img.shields.io/badge/DIEGO_COLAB.8-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50246028932" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.9-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51992621601" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51992621601" target="blank"><img src="https://img.shields.io/badge/AIDEN_NOTLOGIC_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51992621601" target="blank"><img src="https://img.shields.io/badge/GATITO_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51992621601" target="blank"><img src="https://img.shields.io/badge/CARLOSTWT_COLAB.5-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51992621601" target="blank"><img src="https://img.shields.io/badge/GHOST_COLAB.6-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51992621601" target="blank"><img src="https://img.shields.io/badge/NEKOSMICMATT_COLAB.7-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51992621601" target="blank"><img src="https://img.shields.io/badge/DIEGO_COLAB.8-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51992621601" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.9-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/5212411719888" target="blank"><img src="https://img.shields.io/badge/YOVANI_COLAB.10-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/5218442114446" target="blank"><img src="https://img.shields.io/badge/skid_COLAB.11-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/393755775755" target="blank"><img src="https://img.shields.io/badge/Fabri115_COLAB.12-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />

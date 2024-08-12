@@ -28,7 +28,7 @@ ${tradutor.texto1[1]}
         'title': `${tradutor.texto3}`,
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA'}},
+        'sourceUrl': 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY'}},
     'caption': text,
     'footer': wm,
     'headerType': 6};
