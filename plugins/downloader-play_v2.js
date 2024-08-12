@@ -182,7 +182,7 @@ const handler = async (m, { command, usedPrefix, conn, text }) => {
   }
 };
 
-handler.command = /^(play.1|play.2|playyt)$/i;
+handler.command = /^(play|play.2|playyt)$/i;
 export default handler;
 
 async function isValidYouTubeLink(link) {
