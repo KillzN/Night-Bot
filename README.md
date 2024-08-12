@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # `𝙏𝙃𝙀 𝙈𝙔𝙎𝙏𝙄𝘾 - 𝘽𝙊𝙏`
 
 ------------------
@@ -161,3 +162,6 @@
 ## `▢ PROPIETARIO DEL BOT` 
 <a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="250" height="250" alt="BrunoSobrino"/></a>
  
+=======
+.
+>>>>>>> 1c37791a0d73a5774321d654f34e3004b2c2f090
