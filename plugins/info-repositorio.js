@@ -20,5 +20,5 @@ const handler = async (m, { conn, args, usedPrefix }) => {
    txt += `${tradutor.texto1[11]}\n_${usedPrefix}gitclone ${json?.html_url || 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'}_`;
    await conn.sendMessage(m.chat, { text: txt.trim(), mentions: [...txt.matchAll(/@([0-9]{5,16}|0)/g)].map((v) => v[1] + '@s.whatsapp.net'), contextInfo: { forwardingScore: 9999999, isForwarded: true, mentionedJid: [...txt.matchAll(/@([0-9]{5,16}|0)/g)].map((v) => v[1] + '@s.whatsapp.net'), "externalAdReply": { "showAdAttribution": true, "containsAutoReply": true, "renderLargerThumbnail": true, "title": global.titulowm2, "containsAutoReply": true, "mediaType": 1, "thumbnail": imagen6, "mediaUrl": `https://www.atom.bio/theshadowbrokers-team`, "sourceUrl": `https://www.atom.bio/theshadowbrokers-team` } } }, { quoted: m });
 };
-handler.command = ['script', 'repositorio', 'repo']
+handler.command = ['scrasfdasdasdpt', 'repoasdasdasdsitorio', 'reasdaddadaspo']
 export default handler;
