@@ -1882,7 +1882,7 @@
                 "*[❗] INFORMATION : IMPOSSIBLE D'AJOUTER",
                 "À VOTRE COMPTE CAR UN PROBLÈME EST SURVENU. VEUILLEZ NOTER QUE LA PERSONNE A QUITTÉ LE GROUPE OU A ANNULÉ SA CONFIDENTIALITÉ DE GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. L'INVITATION A ÉTÉ ENVOYÉE AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE OU LA PERSONNE A CONFIRMÉ SA CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRONT L'INVITATION AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. JE VOUS INVITE À L'INVITATION AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRO..."
             ],
-            "texto4": "Salut !! Bonjour, je me présente, je suis The Mystic - Bot et je suis un Bot pour WhatsApp. Quelqu'un du groupe a utilisé la commande pour vous ajouter au groupe, mais je n'ai pas pu vous ajouter, donc je vous envoie l'invitation pour que vous nous rejoigniez. Nous vous attendons !!",
+            "texto4": "Salut !! Bonjour, je me présente, je suis Readz Aleizn et je suis un Bot pour WhatsApp. Quelqu'un du groupe a utilisé la commande pour vous ajouter au groupe, mais je n'ai pas pu vous ajouter, donc je vous envoie l'invitation pour que vous nous rejoigniez. Nous vous attendons !!",
             "texto5": "*[❗] INFORMATION : IMPOSSIBLE D'AJOUTER VOTRE NUMÉRO CAR UN PROBLÈME EST SURVENU. VEUILLEZ NOTER QUE LA PERSONNE A QUITTÉ LE GROUPE OU A ANNULÉ SA CONFIDENTIALITÉ DE GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. L'INVITATION A ÉTÉ ENVOYÉE AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE OU LA PERSONNE A CONFIRMÉ SA CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRON..."
         },
         "gc_admins": {
@@ -2104,15 +2104,15 @@
             "texto1": [
                 "*[❗] Vous êtes dans une conversation ou vous devez utiliser la fonction de chatbot*\n\n*—◉ Exemples de demandes et d'ordres*\n*◉ Réflexion sur la série Merlina 2022 de Netflix*\n*◉ Code en JS pour un jeu de cartes*"
             ],
-            "texto2": "Vous agirez en tant que Bot WhatsApp créé par BrunoSobrino, vous serez The Mystic - Bot.",
-            "texto3": "Vous agirez en tant que Bot WhatsApp créé par BrunoSobrino, vous serez The Mystic - Bot.",
+            "texto2": "Vous agirez en tant que Bot WhatsApp créé par BrunoSobrino, vous serez Readz Aleizn.",
+            "texto3": "Vous agirez en tant que Bot WhatsApp créé par BrunoSobrino, vous serez Readz Aleizn.",
             "texto4": "*[❗] Erreur, veuillez réessayer*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗] Vous êtes dans une conversation ou vous devez utiliser la fonction de chatbot*\n\n*—◉ Exemples de demandes et d'ordres*\n*◉ Réflexion sur la série Merlina 2022 de Netflix*\n*◉ Code en JS pour un jeu de cartes*"
             ],
-            "texto2": "Vous agirez en tant que Bot WhatsApp créé par BrunoSobrino, vous serez The Mystic - Bot.",
+            "texto2": "Vous agirez en tant que Bot WhatsApp créé par BrunoSobrino, vous serez Readz Aleizn.",
             "texto3": "*[❗] Erreur, veuillez réessayer*"
         },
         "herramientas_clima": {

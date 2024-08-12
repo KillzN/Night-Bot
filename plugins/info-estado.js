@@ -75,7 +75,7 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
         mediaType: 2,
         previewType: "pdf",
-        title: "The Mystic - Bot",
+        title: "Readz Aleizn",
         body: tradutor.texto2,
         thumbnail: imagen1,
         sourceUrl: "https://github.com/BrunoSobrino/TheMystic-Bot-MD",

@@ -2194,7 +2194,7 @@
                 "[❗INFORMAÇÃO❗] IMPOSSÍVEL ADICIONAR",
                 "À SUA CONTA PORQUE OCORREU UM PROBLEMA. NOTE QUE A PESSOA SAIU DO GRUPO OU CANCELOU SUA PRIVACIDADE DE GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. O CONVITE FOI ENVIADO AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO OU A PESSOA CONFIRMOU SUA PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. CONVIDO VOCÊ AO CONVITE DO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE DO GRUPO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO !!"
             ],
-            "texto4": "Oi!! Olá, eu sou The Mystic - Bot e sou um Bot para WhatsApp. Alguém do grupo usou o comando para te adicionar ao grupo, mas não pude te adicionar, então estou te enviando o convite para que você se junte a nós. Estamos te esperando!!",
+            "texto4": "Oi!! Olá, eu sou Readz Aleizn e sou um Bot para WhatsApp. Alguém do grupo usou o comando para te adicionar ao grupo, mas não pude te adicionar, então estou te enviando o convite para que você se junte a nós. Estamos te esperando!!",
             "texto5": "[❗INFORMAÇÃO❗] IMPOSSÍVEL ADICIONAR SEU NÚMERO PORQUE OCORREU UM PROBLEMA. NOTE QUE A PESSOA SAIU DO GRUPO OU CANCELOU SUA PRIVACIDADE DE GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. O CONVITE FOI ENVIADO AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO OU A PESSOA CONFIRMOU SUA PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. CONVIDO VOCÊ AO CONVITE DO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE DO GRUPO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO !!"
         },
         "gc_admins": {
@@ -2416,15 +2416,15 @@
             "texto1": [
                 "*[❗] Você está em uma conversa ou ordem para usar a função de chatbot*\n\n*—◉ Exemplos de Petições e Ordens*\n*◉ Reflexão sobre a série Merlina 2022 da Netflix*\n*◉ Código em JS para um jogo de cartas*"
             ],
-            "texto2": "Você vai atuar como um Bot de WhatsApp criado por BrunoSobrino, você será The Mystic - Bot.",
-            "texto3": "Você vai atuar como um Bot de WhatsApp criado por BrunoSobrino, você será The Mystic - Bot.",
+            "texto2": "Você vai atuar como um Bot de WhatsApp criado por BrunoSobrino, você será Readz Aleizn.",
+            "texto3": "Você vai atuar como um Bot de WhatsApp criado por BrunoSobrino, você será Readz Aleizn.",
             "texto4": "*[❗] Erro, tente novamente*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗] Você está em uma conversa ou ordem para usar a função de chatbot*\n\n*—◉ Exemplos de Petições e Ordens*\n*◉ Reflexão sobre a série Merlina 2022 da Netflix*\n*◉ Código em JS para um jogo de cartas*"
             ],
-            "texto2": "Você vai atuar como um Bot de WhatsApp criado por BrunoSobrino, você será The Mystic - Bot.",
+            "texto2": "Você vai atuar como um Bot de WhatsApp criado por BrunoSobrino, você será Readz Aleizn.",
             "texto3": "*[❗] Erro, tente novamente*"
         },
         "herramientas_clima": {
