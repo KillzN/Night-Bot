@@ -1,4 +1,4 @@
-/* Codigo hecho por @Fabri115 y mejorado por BrunoSobrino */
+/* Codigo hecho por @Fabri115 y mejorado por KillzN */
 
 import { readdirSync, unlinkSync, existsSync, promises as fs, rmSync, readFileSync } from 'fs';
 import path from 'path';

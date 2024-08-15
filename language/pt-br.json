@@ -1,7 +1,7 @@
 {
     "___creditos": {
         "___Contribuidor": "https://github.com/jeffersonalionco",
-        "___Criador": "https://github.com/BrunoSobrino"
+        "___Criador": "https://github.com/KillzN"
     },
     "plugins": {
         "antiarab": {
@@ -802,7 +802,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "*[❗] Insira um link do YouTube.*",
-            "texto2": "🤴🏻 Download por BrunoSobrino & TheMystic-Bot-MD 🤖"
+            "texto2": "🤴🏻 Download por KillzN & KILLZN - BOT 🤖"
         },
         "downloader_ytv_2": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] Insira o comando mais o link do vídeo do YouTube*",
@@ -2194,7 +2194,7 @@
                 "[❗INFORMAÇÃO❗] IMPOSSÍVEL ADICIONAR",
                 "À SUA CONTA PORQUE OCORREU UM PROBLEMA. NOTE QUE A PESSOA SAIU DO GRUPO OU CANCELOU SUA PRIVACIDADE DE GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. O CONVITE FOI ENVIADO AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO OU A PESSOA CONFIRMOU SUA PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. CONVIDO VOCÊ AO CONVITE DO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE DO GRUPO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO !!"
             ],
-            "texto4": "Oi!! Olá, eu sou Readz Aleizn e sou um Bot para WhatsApp. Alguém do grupo usou o comando para te adicionar ao grupo, mas não pude te adicionar, então estou te enviando o convite para que você se junte a nós. Estamos te esperando!!",
+            "texto4": "Oi!! Olá, eu sou KillzN e sou um Bot para WhatsApp. Alguém do grupo usou o comando para te adicionar ao grupo, mas não pude te adicionar, então estou te enviando o convite para que você se junte a nós. Estamos te esperando!!",
             "texto5": "[❗INFORMAÇÃO❗] IMPOSSÍVEL ADICIONAR SEU NÚMERO PORQUE OCORREU UM PROBLEMA. NOTE QUE A PESSOA SAIU DO GRUPO OU CANCELOU SUA PRIVACIDADE DE GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. O CONVITE FOI ENVIADO AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO OU A PESSOA CONFIRMOU SUA PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. CONVIDO VOCÊ AO CONVITE DO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE DO GRUPO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO !!"
         },
         "gc_admins": {
@@ -2416,15 +2416,15 @@
             "texto1": [
                 "*[❗] Você está em uma conversa ou ordem para usar a função de chatbot*\n\n*—◉ Exemplos de Petições e Ordens*\n*◉ Reflexão sobre a série Merlina 2022 da Netflix*\n*◉ Código em JS para um jogo de cartas*"
             ],
-            "texto2": "Você vai atuar como um Bot de WhatsApp criado por BrunoSobrino, você será Readz Aleizn.",
-            "texto3": "Você vai atuar como um Bot de WhatsApp criado por BrunoSobrino, você será Readz Aleizn.",
+            "texto2": "Você vai atuar como um Bot de WhatsApp criado por KillzN, você será KillzN.",
+            "texto3": "Você vai atuar como um Bot de WhatsApp criado por KillzN, você será KillzN.",
             "texto4": "*[❗] Erro, tente novamente*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗] Você está em uma conversa ou ordem para usar a função de chatbot*\n\n*—◉ Exemplos de Petições e Ordens*\n*◉ Reflexão sobre a série Merlina 2022 da Netflix*\n*◉ Código em JS para um jogo de cartas*"
             ],
-            "texto2": "Você vai atuar como um Bot de WhatsApp criado por BrunoSobrino, você será Readz Aleizn.",
+            "texto2": "Você vai atuar como um Bot de WhatsApp criado por KillzN, você será KillzN.",
             "texto3": "*[❗] Erro, tente novamente*"
         },
         "herramientas_clima": {
@@ -2562,9 +2562,9 @@
             "texto2": "*[❗] A MENSAGEM SELECIONADA NÃO É UMA VISUALIZAÇÃO ÚNICA (VER SOZINHO)*"
         },
         "herramientas_spamwa": {
-            "texto1": "*[ ⚠️ ] PARA FAVOR, NÃO FAÇA USO EXCESSIVO DE SPAM DE MENSAGENS!*\n*COMO USAR:*\n*—◉ #spamwa número|texto|quantidade*\n*EXEMPLO:*\n*—◉ #spamwa 5219999999999|responde :v|25*",
-            "texto2": "*[ ⚠️ ] PARA FAVOR, EVITE FAZER SPAM MENSAGENS PARA HACKEAR EL SPAM!*\n*COMO USAR:*\n*—◉ #spamwa número|texto|quantidade*\n*EXEMPLO:*\n*—◉ #spamwa 5219999999999|responde :v|25*",
-            "texto3": "*[ ⚠️ ] A QUANTIDADE DEVE SER MENOR!*\n*COMO USAR:*\n*—◉ #spamwa número|texto|quantidade*\n*EXEMPLO:*\n*—◉ #spamwa 5219999999999|responde :v|25*",
+            "texto1": "*[ ⚠️ ] PARA FAVOR, NÃO FAÇA USO EXCESSIVO DE SPAM DE MENSAGENS!*\n*COMO USAR:*\n*—◉ #spamwa número|texto|quantidade*\n*EXEMPLO:*\n*—◉ #spamwa 56983073328|responde :v|25*",
+            "texto2": "*[ ⚠️ ] PARA FAVOR, EVITE FAZER SPAM MENSAGENS PARA HACKEAR EL SPAM!*\n*COMO USAR:*\n*—◉ #spamwa número|texto|quantidade*\n*EXEMPLO:*\n*—◉ #spamwa 56983073328|responde :v|25*",
+            "texto3": "*[ ⚠️ ] A QUANTIDADE DEVE SER MENOR!*\n*COMO USAR:*\n*—◉ #spamwa número|texto|quantidade*\n*EXEMPLO:*\n*—◉ #spamwa 56983073328|responde :v|25*",
             "texto4": "*[ ⚠️ ] AS MENSAGENS MENSAJES DEVEM SER MENOS DE 50 MENSAGENS*️",
             "texto5": [
                 "*[❗] O SPAM DE MENSAGENS ESTÁ ACIMA DO LIMITE*\n*FAVOR CONSULTAR O ADMIN*\n*CONTATO EMERGENCIAL:*\n*—◉",
@@ -2625,20 +2625,20 @@
         },
         "info_creador": {
             "texto1": [
-                "*—◉ O número do meu criador é wa.me/51992621601*",
-                "*—◉ O número do colaborador 1 é wa.me/51992621601*",
-                "*—◉ O número do colaborador 2 é wa.me/51992621601*",
-                "*—◉ O número do colaborador 3 é wa.me/51992621601*",
-                "*—◉ O número do colaborador 4 é wa.me/51992621601*",
-                "*—◉ O número do colaborador 5 é wa.me/51992621601*",
-                "*—◉ O número do colaborador 6 é wa.me/51992621601*",
-                "*—◉ O número do colaborador 7 é wa.me/51992621601*",
-                "*—◉ O número do colaborador 8 é wa.me/51992621601*",
-                "*—◉ O número do colaborador 9 é wa.me/51992621601*",
-                "*—◉ O número do colaborador 10 é wa.me/51992621601*",
+                "*—◉ O número do meu criador é wa.me/56983073328*",
+                "*—◉ O número do colaborador 1 é wa.me/56983073328*",
+                "*—◉ O número do colaborador 2 é wa.me/56983073328*",
+                "*—◉ O número do colaborador 3 é wa.me/56983073328*",
+                "*—◉ O número do colaborador 4 é wa.me/56983073328*",
+                "*—◉ O número do colaborador 5 é wa.me/56983073328*",
+                "*—◉ O número do colaborador 6 é wa.me/56983073328*",
+                "*—◉ O número do colaborador 7 é wa.me/56983073328*",
+                "*—◉ O número do colaborador 8 é wa.me/56983073328*",
+                "*—◉ O número do colaborador 9 é wa.me/56983073328*",
+                "*—◉ O número do colaborador 10 é wa.me/56983073328*",
                 "*—◉ O contato do colaborador 11 é https://instagram.com/gata_dios*",
-                "*—◉ O número do colaborador 12 é wa.me/51992621601*",
-                "*—◉ O número do colaborador 13 no Brasil é wa.me/51992621601*"
+                "*—◉ O número do colaborador 12 é wa.me/56983073328*",
+                "*—◉ O número do colaborador 13 no Brasil é wa.me/56983073328*"
             ],
             "texto2": [
                 "「  Olá Mundo 」",
@@ -2659,14 +2659,14 @@
                 "➤ PAYPAL: https://www.paypal.me/TheShadowBrokers133",
                 "👉🏻 ENTRE EM CONTATO CASO NECESSÁRIO",
                 "MAIS DADOS E PARA AGRADECER",
-                "wa.me/51992621601"
+                "wa.me/56983073328"
             ]
         },
         "info_estado": {
             "texto1": [
                 "*< INFORMAÇÃO - ESTADO />*_",
                 "▢ *Prop.:* Bruno Sobrino",
-                "▢ *WA:* +51992621601",
+                "▢ *WA:* +56983073328",
                 "▢ *PayPal:* paypal.me/TheShadowBrokers133",
                 "▢ *Ping:*",
                 "▢ *Tempo de atividade:*",
@@ -3367,7 +3367,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamantes* 💎",
                 "Tokens* 🪙",
-                "MysticCoins* 👾",
+                "KillzNCoins* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3490,7 +3490,7 @@
                 "*—◉ Continue explorando e realizando missões para alcançar novas alturas na Guilda dos Aventureiros. Continue interagindo com o Bot!*"
             ]
         },
-        "rpg_minar_mysticcoins": {
+        "rpg_minar_KillzNCoins": {
             "texto1": [
                 "Que pro 😎 você minerou",
                 "🌟✨ Legal!! Você recebe",

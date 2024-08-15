@@ -1,12 +1,12 @@
-// adaptado por Diego : TheMystic-Bot-MD
+// adaptado por Diego : KILLZN - BOT
 
 import axios from 'axios';
 
 let previousCommitSHA = '';
 let previousUpdatedAt = '';
 let previousCommitUser = ''; 
-const owner = 'BrunoSobrino';
-const repo = 'TheMystic-Bot-MD';
+const owner = 'KillzN';
+const repo = 'KILLZN - BOT';
 const handler = async (m, {conn, text, usedPrefix, command}) => {
   const datas = global
   const idioma = datas.db.data.users[m.sender].language
