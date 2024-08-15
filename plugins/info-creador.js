@@ -37,7 +37,7 @@ const handler = async (m, {conn, usedPrefix}) => {
   
   ${tradutor.texto1[13]}`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/BrunoSobrino/KILLZN - BOT`},
+    'document': {url: `https://www.instagram.com/ineffable.mvrco/`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2[0]}`,
     'fileLength': 99999999999999,
@@ -46,7 +46,7 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/BrunoSobrino/KILLZN - BOT',
+        'mediaUrl': 'https://www.instagram.com/ineffable.mvrco/',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2[1],

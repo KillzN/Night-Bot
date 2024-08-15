@@ -1,20 +1,26 @@
-let handler = async(m, { isOwner, isAdmin, conn, text, participants, args, command }) => {
+const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, command, usedPrefix}) => {
+  const datas = global
+  const idioma = datas.db.data.users[m.sender].language
+  const _translate = JSON.parse(fs.readFileSync(`./language/${idioma}.json`))
+  const tradutor = _translate.plugins.gc_tagall
+
+  if (usedPrefix == 'a' || usedPrefix == 'A') return;
   if (!(isAdmin || isOwner)) {
-  global.dfail('admin', m, conn)
-  throw false
+    global.dfail('admin', m, conn);
+    throw false;
   }
-  let pesan = args.join` `
-  let oi = `*🛍️https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC ${pesan}`
-  let teks = `*⬇️Venta de 🤖 ,regedits 🖥️📱 ,sensibilidades📱 ,+ 30 metodos ,cuentas ff y mass⬇️*
-   ${oi}\n\n🛍️ *@Ale.izn_20:*\n`
-  for (let mem of participants) {
-  teks += `⭐ @${mem.id.split('@')[0]}\n`}
-  teks += `𝐁𝐎𝐓𝐂𝐈𝐓𝐎 𝐂𝐀𝐆𝐀 𝐇𝐈𝐄𝐋𝐎`
-  conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
+  const pesan = args.join` `;
+  const oi = `*𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝘼𝙎:* ${pesan}`;
+  let teks = `*> Tʜᴇ Sᴜɴ Is Bʀɪɢʜᴛ Bᴜᴛ Nᴏᴛ As Bʀɪɢʜᴛ As Mᴇ ☀️*\n\n ${oi}\n\n➥ _*@ineffable.mvrco:*_\n`;
+  for (const mem of participants) {
+    teks += `🥷🏼 ⇝ @${mem.id.split('@')[0]}\n`;
   }
-  handler.help = ['tagall <mesaje>','invocar <mesaje>']
-  handler.tags = ['group']
-  handler.command = /^(tagall|invocar|invocacion|todos|invocación|aviso|despierten)$/i
-  handler.admin = true
-  handler.group = true
-  export default handler
+  teks += `└ *KɪʟʟBᴏᴛ ⇝@ineffable.mvrco*`;
+  conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
+};
+handler.help = ['tagall <mesaje>', 'invocar <mesaje>'];
+handler.tags = ['group'];
+handler.command = /^(tagall|invocar|invocacion|todos|invocación|putos)$/i;
+handler.admin = true;
+handler.group = true;
+export default handler;
