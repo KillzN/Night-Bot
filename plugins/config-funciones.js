@@ -9,178 +9,178 @@ const handler = async (m, {conn, usedPrefix, command, args, isOwner, isAdmin, is
 
 const optionsFull = `_*${tradutor.texto1[0]}*_\n 
 
-${tradutor.texto1[1]}  | WELCOME"
+${tradutor.texto1[1]}  | Wᴇʟᴄᴏᴍᴇ
 ${tradutor.texto1[2]} ${usedPrefix + command} welcome
 ${tradutor.texto1[3]}
 
 --------------------------------
 
-${tradutor.texto2[0]} | PUBLIC
+${tradutor.texto2[0]} | Pᴜʙʟɪᴄ  
 ${tradutor.texto2[1]}* ${usedPrefix + command} public
 ${tradutor.texto2[2]}
 ${tradutor.texto2[3]}
 
 --------------------------------
 
-${tradutor.texto3[0]} | MODOHORNY
+${tradutor.texto3[0]} | Mᴏᴅᴏ Hᴏʀɴʏ
 ${tradutor.texto3[1]} ${usedPrefix + command} modohorny
 ${tradutor.texto3[2]}
 
 --------------------------------
 
-${tradutor.texto4[0]} | ANTILINK
+${tradutor.texto4[0]} | AɴᴛɪLɪɴᴋ
 ${tradutor.texto4[1]} ${usedPrefix + command} antilink
 ${tradutor.texto4[2]}
 ${tradutor.texto4[3]}
 
 --------------------------------
 
-${tradutor.texto5[0]} 🔗 | ANTILINK 2
+${tradutor.texto5[0]} 🔗 | AɴᴛɪLɪɴᴋ 2
 ${tradutor.texto5[1]}  ${usedPrefix + command} antilink2
 ${tradutor.texto5[2]}
 ${tradutor.texto5[3]}
 
 --------------------------------
 
-${tradutor.texto6[0]} | DETECT
+${tradutor.texto6[0]} | Dᴇᴛᴇᴄᴛ
 ${tradutor.texto6[1]} ${usedPrefix + command} detect
 ${tradutor.texto6[2]}
 
 --------------------------------
 
-${tradutor.texto7[0]} | DETECT 2
+${tradutor.texto7[0]} | Dᴇᴛᴇᴄᴛ 𝟮
 ${tradutor.texto7[1]} ${usedPrefix + command} detect2
 ${tradutor.texto7[2]}
 
 --------------------------------
 
-${tradutor.texto8[0]} RESTRICT
+${tradutor.texto8[0]} Rᴇsᴛʀɪᴄᴛ
 ${tradutor.texto8[1]} ${usedPrefix + command} restrict
 ${tradutor.texto8[2]}
 ${tradutor.texto8[3]}
 --------------------------------
 
-${tradutor.texto9[0]} | AUTOREAD
+${tradutor.texto9[0]} | AᴜᴛᴏRᴇᴀᴅ
 ${tradutor.texto9[1]} ${usedPrefix + command} autoread
 ${tradutor.texto9[2]}
 ${tradutor.texto9[3]}
 
 --------------------------------
 
-${tradutor.texto10[0]} | AUDIOS
+${tradutor.texto10[0]} | Aᴜᴅɪᴏs
 ${tradutor.texto10[1]} ${usedPrefix + command} audios
 ${tradutor.texto10[2]}
 
 --------------------------------
 
-${tradutor.texto11[0]} | AUTOSTICKER
+${tradutor.texto11[0]} | AᴜᴛᴏSᴛɪᴄᴋᴇʀ
 ${tradutor.texto11[1]} ${usedPrefix + command} autosticker 
 ${tradutor.texto11[2]}
 
 --------------------------------
 
-${tradutor.texto12[0]} | PCONLY
+${tradutor.texto12[0]} | PᴄOɴʟʏ
 ${tradutor.texto12[1]} ${usedPrefix + command} pconly
 ${tradutor.texto12[2]}
 ${tradutor.texto12[3]}
 
 --------------------------------
 
-${tradutor.texto13[0]} | GCONLY
+${tradutor.texto13[0]} | GᴄOɴʟʏ
 ${tradutor.texto13[1]} ${usedPrefix + command} gconly
 ${tradutor.texto13[2]} 
 ${tradutor.texto13[3]}
 
 --------------------------------
 
-${tradutor.texto14[0]} | ANTIVIEWONCE 
+${tradutor.texto14[0]} | AɴᴛɪVɪᴇᴡᴏɴᴄᴇ 
 ${tradutor.texto14[1]} ${usedPrefix + command} antiviewonce
 ${tradutor.texto14[2]}
 
 --------------------------------
 
-${tradutor.texto15[0]} | ANTILLAMADAS
+${tradutor.texto15[0]} | AɴᴛɪLʟᴀᴍᴀᴅᴀs
 ${tradutor.texto15[1]} ${usedPrefix + command} anticall
 ${tradutor.texto15[2]} 
 ${tradutor.texto15[3]}
 
 --------------------------------
 
-${tradutor.texto16[0]} | ANTITOXIC
+${tradutor.texto16[0]} | AɴᴛɪTᴏxɪᴄ
 ${tradutor.texto16[1]} ${usedPrefix + command} antitoxic
 ${tradutor.texto16[2]}
 ${tradutor.texto16[3]}
 
 --------------------------------
 
-${tradutor.texto17[0]} | ANTITRABAS
+${tradutor.texto17[0]} | AɴᴛɪTʀᴀʙᴀs
 ${tradutor.texto17[1]}  ${usedPrefix + command} antitraba
 ${tradutor.texto17[2]} 
 ${tradutor.texto17[3]} 
 
 --------------------------------
 
-${tradutor.texto18[0]} | ANTIARABES
+${tradutor.texto18[0]} | AɴᴛɪAʀᴀʙᴇs
 ${tradutor.texto18[1]} ${usedPrefix + command} antiarabes
 ${tradutor.texto18[2]}
 ${tradutor.texto18[3]}
 
 --------------------------------
 
-${tradutor.texto19[0]} | ANTIARABES 2
+${tradutor.texto19[0]} | AɴᴛɪAʀᴀʙᴇs 𝟮
 ${tradutor.texto19[1]}  ${usedPrefix + command} antiarabes2
 ${tradutor.texto19[2]} 
 ${tradutor.texto19[3]} 
 
 --------------------------------
 
-${tradutor.texto20[0]} | MODOADMIN
+${tradutor.texto20[0]} | MᴏᴅᴏAᴅᴍɪɴ
 ${tradutor.texto20[1]} ${usedPrefix + command} modoadmin
 ${tradutor.texto20[2]}
 
 --------------------------------
 
-${tradutor.texto21[0]} | SIMSIMI
+${tradutor.texto21[0]} | SɪᴍSɪᴍɪ
 ${tradutor.texto21[1]} ${usedPrefix + command} simsimi
 ${tradutor.texto21[2]}
 
 --------------------------------
 
-${tradutor.texto22[0]} | ANTIDELETE
+${tradutor.texto22[0]} | AɴᴛɪDᴇʟᴇᴛᴇ
 ${tradutor.texto22[1]} ${usedPrefix + command} antidelete
 ${tradutor.texto22[2]}
 
 --------------------------------
 
-${tradutor.texto23[0]} | AUDIOS_BOT
+${tradutor.texto23[0]} | Aᴜᴅɪᴏs_Bᴏᴛ
 ${tradutor.texto23[1]} ${usedPrefix + command} audios_bot
 ${tradutor.texto23[2]}
 ${tradutor.texto23[3]}
 
 --------------------------------
 
-${tradutor.texto24[0]} | MODOIA
+${tradutor.texto24[0]} | MᴏᴅᴏIA
 ${tradutor.texto24[1]} ${usedPrefix + command} modoia
 ${tradutor.texto24[2]}
 ${tradutor.texto24[3]}
 
 --------------------------------
 
-${tradutor.texto25[0]} | ANTISPAM
+${tradutor.texto25[0]} | AɴᴛɪSᴘᴀᴍ
 ${tradutor.texto25[1]} ${usedPrefix + command} antispam
 ${tradutor.texto25[2]}
 ${tradutor.texto25[3]}
 
 --------------------------------
 
-${tradutor.texto26[0]} | MODEJADIBOT
+${tradutor.texto26[0]} | MᴏᴅᴇJᴀᴅɪBᴏᴛ
 ${tradutor.texto26[1]} ${usedPrefix + command} modejadibot
 ${tradutor.texto26[2]} (${usedPrefix}serbot / ${usedPrefix}jadibot). 
 ${tradutor.texto26[3]}
 
 --------------------------------
 
-${tradutor.texto27[0]} | ANTIPRIVADO
+${tradutor.texto27[0]} | AɴᴛɪPʀɪᴠᴀᴅᴏ
 ${tradutor.texto27[1]} ${usedPrefix + command} antiprivado
 ${tradutor.texto27[2]}
 ${tradutor.texto27[3]}`.trim();

@@ -46,8 +46,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
   ╰━━━━━━━━━━━━
 
  ╭━〔 ❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 ❄️〕
- *┃➤  ${usedPrefix}menuff*
- *┃➤  ${usedPrefix}comandosff*
  *┃➤  ${usedPrefix}kick*
  *┃➤  ${usedPrefix}grupo*
  *┃➤  ${usedPrefix}promote*
@@ -62,70 +60,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  *┃➤  ${usedPrefix}kickfantasmas*
   ╰━━━━━━━━━━━━
 
- ╭━〔 ⚠️ *FREE FIRE* ⚠️ 〕
- *┃➤ 🗺️ ${usedPrefix}menuff*
- *┃➤ 🗺️ ${usedPrefix}bermuda*
- *┃➤ 🗺️ ${usedPrefix}kalahari*
- *┃➤ 🗺️ ${usedPrefix}alpes*
- *┃➤ 🗺️ ${usedPrefix}purgatorio*
- *┃➤ 🗺️ ${usedPrefix}nexterra*
- *┃➤ 📋 ${usedPrefix}agendasemanal*
-  ╰━━━━━━━━━━━━
-
-  ╭━〔 ⚔️ *BUSCAR VS PLANTILLAS* 🔱 〕
- *┃➤ 🌀 ${usedPrefix}buscarvsmasc*
- *┃➤ ⚔️ ${usedPrefix}bsmsac*
- *┃➤ ⚓ ${usedPrefix}buscarvsfem*
- *┃➤ ✨ ${usedPrefix}bsfem*
- *┃➤ 📍 ${usedPrefix}buscarvsmixto*
- *┃➤ 👁️‍🗨️ ${usedPrefix}bsmixto*
-  ╰━━━━━━━━━━━━
-
- *╔══ ≪ REGLAS , LISTA , FICHA ≫ ══╗*
-*║* 💻➺ _${usedPrefix}Fem4_
-*║* 💻➺ _${usedPrefix}Fem6_
-*║* 💻➺ _${usedPrefix}FemInterna4_
-*║* 💻➺ _${usedPrefix}FemInterna6_
-*║* 💻➺ _${usedPrefix}Masc4_
-*║* 💻➺ _${usedPrefix}Masc6_
-*║* 💻➺ _${usedPrefix}MascInterna4_
-*║* 💻➺ _${usedPrefix}MascInterna6_
-*║* 💻➺ _${usedPrefix}Mixto4_
-*║* 💻➺ _${usedPrefix}Mixto6_
-*║* 💻➺ _${usedPrefix}MixtoInterna4_
-*║* 💻➺ _${usedPrefix}MixtoInterna6_
-*║* 💻➺ _${usedPrefix}apos_
-*║* 💻➺ _${usedPrefix}mapa_
-*║* 💻➺ _${usedPrefix}Ficha / Formulario Reclutamiento_
-*║* 💻➺ _${usedPrefix}Nexterra_
-*║* 💻➺ _${usedPrefix}Bermuda_
-*║* 💻➺ _${usedPrefix}Kalahary_
-*║* 💻➺ _${usedPrefix}Alpes_
-*║* 💻➺ _${usedPrefix}AgendaSemanal_
-*╚══ ≪ •❈• ≫ ══╝*
-
- *╔══ ≪ LINKS DE COMUS/APK Y DRIVES DZN ≫ ══╗*
- *║* 🎐_${usedPrefix}SpamApk / WhatsApp_
- *║* 🎐_${usedPrefix}SpamComu / Comunidades_
- *║* 🎐 _${usedPrefix}Spam2_
- *║* 🎐 _${usedPrefix}rcursosdzn_
- *║* 🎐 _${usedPrefix}drivesdzn_
- *║* 🎐 _${usedPrefix}dzn_
- *║* 🎐 _${usedPrefix}ApkEdits_
- *║* 🎐 _${usedPrefix}DriveEdits_
- *╚══ ≪ •❈• ≫ ══╝*
-
- ╭━〔 🧿 𝐆𝐄𝐍𝐄𝐑𝐀 𝐏𝐋𝐀𝐓𝐀𝐅𝐎𝐑𝐌𝐀𝐒 🧿 〕
- *┃➤ 💴 ${usedPrefix}plataformas*
- *┃➤ 💳 ${usedPrefix}drops*
- *┃➤ 💳 ${usedPrefix}streaming*
- *┃➤ 💳 ${usedPrefix}cccompras*
- *┃➤ 💰 ${usedPrefix}cursovip*
- *┃➤ 💰 ${usedPrefix}cc2*
- *┃➤ 💸 ${usedPrefix}cursoplataformas*
-  ╰━━━━━━━━━━━
-
- *╔══ ≪ STICKERS X FILTROS ≫ ══╗*
+ *╔══ ≪ 𝗦𝗧𝗜𝗖𝗞𝗘𝗥𝗦 𝗫 𝗙𝗜𝗟𝗧𝗥𝗢𝗦 ≫ ══╗*
  *║* 🎐 _${usedPrefix}sticker | s *imagen o video*_
  *║* 🎐 _${usedPrefix}sticker | s *url de tipo jpg*_
  *║* 🎐 _${usedPrefix}emojimix *😺+😆*_
@@ -145,7 +80,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  *║* 🎐 _${usedPrefix}stickerfilter *efecto : responder a imagen*_
  *║* 🎐 _${usedPrefix}cs *:* cs2_
  *╚══ ≪ •❈• ≫ ══╝*
-
 
  ╭━〔 🎮 𝐉𝐔𝐄𝐆𝐎𝐒 🎮 〕
 *┃➤ 🕹️ ${usedPrefix}mates*
@@ -196,8 +130,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┃➤ 🕹️ ${usedPrefix}kchero*
  ╰━━━━━━━━━━━━
 
-
- ╭━〔 🎭 *IMAGENES* 🎭 〕
+ ╭━〔 🎭 𝗜𝗠𝗔𝗚𝗘𝗡𝗘𝗦 🎭 〕
 *┃➤ 🖍️ ${usedPrefix}goku*
 *┃➤ 🖍️ ${usedPrefix}vegeta*
 *┃➤ 🖍️ ${usedPrefix}lora*
@@ -207,7 +140,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┃➤ 🖍️ ${usedPrefix}hellokitty*
 *┃➤ 🖍️ ${usedPrefix}charmander*
  ╰━━━━━━━━━━━━
- 
 
  ╭━〔 🈴 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 🈴 〕
 *┃➤ 📥 ${usedPrefix}play*
@@ -230,7 +162,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┃➤ 📥 ${usedPrefix}pinteres*
 *┃➤ 📥 ${usedPrefix}igstory*
  ╰━━━━━━━━━━━━
-
 
 *╭━〔 👀 𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒 👀 〕*
 *┃➤ 📍 ${usedPrefix}toimg*
@@ -287,7 +218,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┃➤ 🍁 ${usedPrefix}mendigar*
 *┃➤ 🍁 ${usedPrefix}transfer*
  ╰━━━━━━━━━━━━
- *╔══ ≪ FUNCIONES OWNERS ≫ ══╗*
+ *╔══ ≪ 𝗙𝗨𝗡𝗖𝗜𝗢𝗡𝗘𝗦 𝗢𝗪𝗡𝗘𝗥𝗦 ≫ ══╗*
 *║* 💎➺ _${usedPrefix}join *enlace*_
 *║* 💎➺ _${usedPrefix}unete *enlace*_
 *║* 💎➺ _${usedPrefix}dardiamantes *cantidad*_
