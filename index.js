@@ -17,7 +17,7 @@ say('KillzN', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`Bot creado para ti mi amol`, {
+say(`BOT CREADO POR KILLZN`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});

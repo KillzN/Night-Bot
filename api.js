@@ -271,7 +271,7 @@ global.rpgshop = { // Tienda
       kyubi: '🌀 Magia',
       gold: '👑 Oro',
       money: '👾 KillzNCoins',
-      tiketcoin: '🎫 mystic Tickers',
+      tiketcoin: '🎫 KillzN Tickets',
       stamina: '✨ Energía',
       potion: '🥤 Poción',
       aqua: '💧 Agua',
