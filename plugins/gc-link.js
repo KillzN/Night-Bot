@@ -54,7 +54,8 @@ const handler = async (m, {conn, args}) => {
            title: tradutor.texto1[0],
            body: 'KillzN',
            previewType: 0, thumbnail: fs.readFileSync('./Menu2.jpg'),
-           sourceUrl: `instagram.com/ineffable.mvrcoins
+           sourceUrl: `https://instagram.com/ineffable.mvrco`}
+           }
         }
       );  
    }
