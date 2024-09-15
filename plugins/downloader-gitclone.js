@@ -16,5 +16,5 @@ const handler = async (m, {args, usedPrefix, command}) => {
   m.reply(tradutor.texto3);
   conn.sendFile(m.chat, url, filename, null, m);
 };
-handler.command = /^(gitclone)$/i;
+handler.command = /^(gitawdawdawdwafadwadwclone)$/i;
 export default handler;
