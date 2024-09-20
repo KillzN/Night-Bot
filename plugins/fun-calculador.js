@@ -30,6 +30,28 @@ const handler = async (m, { conn, command, text, usedPrefix }) => {
         description = `${tradutor.texto6[0]} ${text.toUpperCase()} ${tradutor.texto6[1]} ${percentages}% ${command}. ${emoji}*\n${tradutor.texto6[2]}`;
       }
       break;
+      case 'adoptado':
+      case 'adoptada':
+        emoji = '🧑🏿‍🍼';
+        if (percentages < 50) {
+          description = `${tradutor.texto4[0]} ${text.toUpperCase()} ${tradutor.texto4[1]} ${percentages}% ${command}. ${emoji}*\n${tradutor.texto4[2]}`;
+        } else if (percentages > 100) {
+          description = `${tradutor.texto5[0]} ${text.toUpperCase()} ${tradutor.texto5[1]} ${percentages}% ${command}. ${emoji}*\n${tradutor.texto5[2]}`;
+        } else {
+          description = `${tradutor.texto6[0]} ${text.toUpperCase()} ${tradutor.texto6[1]} ${percentages}% ${command}. ${emoji}*\n${tradutor.texto6[2]}`;
+        }
+        break;
+      case 'negro':
+      case 'negra':
+        emoji = '👨🏾';
+        if (percentages < 50) {
+          description = `${tradutor.texto4[0]} ${text.toUpperCase()} ${tradutor.texto4[1]} ${percentages}% ${command}. ${emoji}*\n${tradutor.texto4[2]}`;
+        } else if (percentages > 100) {
+          description = `${tradutor.texto5[0]} ${text.toUpperCase()} ${tradutor.texto5[1]} ${percentages}% ${command}. ${emoji}*\n${tradutor.texto5[2]}`;
+        } else {
+          description = `${tradutor.texto6[0]} ${text.toUpperCase()} ${tradutor.texto6[1]} ${percentages}% ${command}. ${emoji}*\n${tradutor.texto6[2]}`;
+        }
+      break;
     case 'pajero':
     case 'pajera':
       emoji = '😏💦';
@@ -104,16 +126,16 @@ var hawemod = [
 "《 ██████████▒▒》80%",
 "《 ████████████》100%"
 ]
-   let { key } = await conn.sendMessage(m.chat, {text: `${tradutor.texto25}`, mentions: conn.parseMention(cal)}, {quoted: m})
- for (let i = 0; i < hawemod.length; i++) {
-   await new Promise(resolve => setTimeout(resolve, 1000)); 
-   await conn.sendMessage(m.chat, {text: hawemod[i], edit: key, mentions: conn.parseMention(cal)}, {quoted: m}); 
+  let { key } = await conn.sendMessage(m.chat, {text: `${tradutor.texto25}`, mentions: conn.parseMention(cal)}, {quoted: m})
+for (let i = 0; i < hawemod.length; i++) {
+  await new Promise(resolve => setTimeout(resolve, 1000)); 
+  await conn.sendMessage(m.chat, {text: hawemod[i], edit: key, mentions: conn.parseMention(cal)}, {quoted: m}); 
   }
   await conn.sendMessage(m.chat, {text: cal, edit: key, mentions: conn.parseMention(cal)}, {quoted: m});         
- }
+}
 loading()    
 };
-handler.help = ['gay2', 'lesbiana', 'pajero', 'pajera', 'puto', 'puta', 'manco', 'manca', 'rata', 'prostituta', 'prostituto'].map((v) => v + ' @tag | nombre');
+handler.help = ['gay2', 'lesbiana', 'pajero', 'pajera', 'puto', 'puta', 'manco', 'manca', 'rata', 'prostituta', 'prostituto', 'negro', 'negra', 'adoptado', 'adoptada'].map((v) => v + ' @tag | nombre');
 handler.tags = ['calculator'];
-handler.command = /^(gay2|lesbiana|pajero|pajera|puto|puta|manco|manca|rata|prostituta|prostituto)$/i;
+handler.command = /^(gay2|lesbiana|pajero|pajera|puto|puta|manco|manca|rata|prostituta|prostituto|negro|negra|adoptado|adoptada)$/i;
 export default handler;
