@@ -50,7 +50,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  *┃➤  ${usedPrefix}grupo*
  *┃➤  ${usedPrefix}promote*
  *┃➤  ${usedPrefix}demote*
- *┃➤  ${usedPrefix}demote*
  *┃➤  ${usedPrefix}link*
  *┃➤  ${usedPrefix}invocar*
  *┃➤  ${usedPrefix}setwelcome*
@@ -130,17 +129,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *┃➤ 🕹️ ${usedPrefix}kchero*
  ╰━━━━━━━━━━━━
 
- ╭━〔 🎭 𝗜𝗠𝗔𝗚𝗘𝗡𝗘𝗦 🎭 〕
-*┃➤ 🖍️ ${usedPrefix}goku*
-*┃➤ 🖍️ ${usedPrefix}vegeta*
-*┃➤ 🖍️ ${usedPrefix}lora*
-*┃➤ 🖍️ ${usedPrefix}cr7*
-*┃➤ 🖍️ ${usedPrefix}spiderman*
-*┃➤ 🖍️ ${usedPrefix}batman*
-*┃➤ 🖍️ ${usedPrefix}hellokitty*
-*┃➤ 🖍️ ${usedPrefix}charmander*
- ╰━━━━━━━━━━━━
-
  ╭━〔 🈴 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 🈴 〕
 *┃➤ 📥 ${usedPrefix}play*
 *┃➤ 📥 ${usedPrefix}play.1*
@@ -172,7 +160,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  ╰━━━━━━━━━━━━
 
 *╭━〔 ♓ 𝐄𝐅𝐄𝐂𝐓𝐎𝐒 𝐘 𝐋𝐎𝐆𝐎𝐒 ♓ 〕*
-*┃➤ ❄️ ${usedPrefix}mensajefalso*
 *┃➤ ❄️ ${usedPrefix}logos*
 *┃➤ ❄️ ${usedPrefix}logocorazon*
 *┃➤ ❄️ ${usedPrefix}ytcomment*
