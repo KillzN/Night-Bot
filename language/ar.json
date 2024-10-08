@@ -858,8 +858,8 @@
         "fix_owner_esperando_mensajes": {
             "texto1": "[❗] استخدم هذا الأمر مباشرةً على الرقم الرئيسي للروبوت.",
             "texto2": "[❗] بدء عملية حذف جميع ملفات الجلسة، باستثناء ملف creds.json...",
-            "texto3": "[❗] مجلد MysticSession غير موجود أو فارغ.",
-            "texto4": "[❗] لم يتم العثور على أي ملفات لحذفها في مجلد MysticSession.",
+            "texto3": "[❗] مجلد NightSession غير موجود أو فارغ.",
+            "texto4": "[❗] لم يتم العثور على أي ملفات لحذفها في مجلد NightSession.",
             "texto5": [
                 "[❗] تم حذف",
                 "ملفات الجلسة، باستثناء ملف creds.json."
@@ -3252,7 +3252,7 @@
             "texto2": "أفضل خدمة استضافة 🚀"
         },
         "info_instalarbot": {
-            "texto1": "—◉ تثبيت البوت الرئيسي\n> البرنامج التعليمي: https://youtu.be/eC9TfKICpcY\n> الصفحة الرسمية: https://boxmineworld.com\n> لوحة التحكم: https://dash.boxmineworld.com/home\n> الواجهة: https://panel.boxmineworld.com\n> الدعم: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ تثبيت البوت الفرعي\n> البرنامج التعليمي: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ أوامر التثبيت*\n> الأوامر:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/Night/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ تنشيط البوت في حالة الإيقاف في Termux ✔️\nاكتب الأوامر التالية واحدة تلو الأخرى:\n> cd TheMystic-Bot-MD\n> npm start\n\n------------------------------------\n\n—◉ 👽 الحصول على رمز QR آخر في Termux 👽\nاكتب الأوامر التالية واحدة تلو الأخرى:\n> cd TheMystic-Bot-MD\n> rm -rf MysticSession\n> npm start",
+            "texto1": "—◉ تثبيت البوت الرئيسي\n> البرنامج التعليمي: https://youtu.be/eC9TfKICpcY\n> الصفحة الرسمية: https://boxmineworld.com\n> لوحة التحكم: https://dash.boxmineworld.com/home\n> الواجهة: https://panel.boxmineworld.com\n> الدعم: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ تثبيت البوت الفرعي\n> البرنامج التعليمي: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ أوامر التثبيت*\n> الأوامر:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/Night/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ تنشيط البوت في حالة الإيقاف في Termux ✔️\nاكتب الأوامر التالية واحدة تلو الأخرى:\n> cd TheMystic-Bot-MD\n> npm start\n\n------------------------------------\n\n—◉ 👽 الحصول على رمز QR آخر في Termux 👽\nاكتب الأوامر التالية واحدة تلو الأخرى:\n> cd TheMystic-Bot-MD\n> rm -rf NightSession\n> npm start",
             "texto2": "أفضل بوت واتساب"
         },
         "info_listprem": {

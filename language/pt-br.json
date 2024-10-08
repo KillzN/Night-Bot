@@ -859,8 +859,8 @@
         "fix_owner_esperando_mensajes": {
             "texto1": "*[❗] Utilize este comando diretamente no número principal do Bot.*",
             "texto2": "*[❗] Iniciando processo de exclusão de todos os arquivos de sessão, exceto o arquivo creds.json...*",
-            "texto3": "*[❗] A pasta MysticSession não existe ou está vazia.*",
-            "texto4": "*[❗] Nenhum arquivo para excluir foi encontrado na pasta MysticSession.*",
+            "texto3": "*[❗] A pasta NightSession não existe ou está vazia.*",
+            "texto4": "*[❗] Nenhum arquivo para excluir foi encontrado na pasta NightSession.*",
             "texto5": [
                 "*[❗] Foram excluídos",
                 "arquivos de sessão, exceto o arquivo creds.json.*"
@@ -2724,7 +2724,7 @@
             "texto2": "O Melhor Hospedagem 🚀"
         },
         "info_instalarbot": {
-            "texto1": "*—◉ INSTALAÇÃO DO BOT PRINCIPAL*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Página Oficial: https://boxmineworld.com\n> Painel de Controle: https://dash.boxmineworld.com/home\n> Painel: https://panel.boxmineworld.com\n> Suporte: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALAÇÃO DO BOT TERCIÁRIO\n> Tutorial: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMANDOS DE INSTALAÇÃO*\n> Comandos:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ATIVAÇÃO EM CASO DE PARADA NO TERMUX ✔️\nDIGITE OS SEGUINTES COMANDOS UM POR UM:\n> cd TheMystic-Bot-MD\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENHA OUTRO CÓDIGO QR NO TERMUX 👽\nDIGITE OS SEGUINTES COMANDOS UM POR UM:\n> cd TheMystic-Bot-MD\n> rm -rf MysticSession\n> npm start",
+            "texto1": "*—◉ INSTALAÇÃO DO BOT PRINCIPAL*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Página Oficial: https://boxmineworld.com\n> Painel de Controle: https://dash.boxmineworld.com/home\n> Painel: https://panel.boxmineworld.com\n> Suporte: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALAÇÃO DO BOT TERCIÁRIO\n> Tutorial: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMANDOS DE INSTALAÇÃO*\n> Comandos:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ATIVAÇÃO EM CASO DE PARADA NO TERMUX ✔️\nDIGITE OS SEGUINTES COMANDOS UM POR UM:\n> cd TheMystic-Bot-MD\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENHA OUTRO CÓDIGO QR NO TERMUX 👽\nDIGITE OS SEGUINTES COMANDOS UM POR UM:\n> cd TheMystic-Bot-MD\n> rm -rf NightSession\n> npm start",
             "texto2": "O Melhor Bot do WhatsApp"
         },
         "info_listprem": {

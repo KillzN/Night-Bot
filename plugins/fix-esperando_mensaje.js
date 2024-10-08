@@ -13,7 +13,7 @@ const handler = async (m, { conn, usedPrefix }) => {
     return conn.sendMessage(m.chat, {text: tradutor.texto1}, {quoted: m});
   }
   const chatId = m.isGroup ? [m.chat, m.sender] : [m.sender];
-  const sessionPath = './MysticSession/';
+  const sessionPath = './NightSession/';
   try {
     const files = await fs.readdir(sessionPath);
     let filesDeleted = 0;

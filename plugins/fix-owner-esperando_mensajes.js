@@ -13,7 +13,7 @@ const handler = async (m, { conn, usedPrefix }) => {
     return conn.sendMessage(m.chat, {text: tradutor.texto1}, {quoted: m});
   }
   await conn.sendMessage(m.chat, {text: tradutor.texto2}, {quoted: m});
-  const sessionPath = './MysticSession/';
+  const sessionPath = './NightSession/';
   try {
     if (!existsSync(sessionPath)) {
       return await conn.sendMessage(m.chat, {text: tradutor.texto3}, {quoted: m});
