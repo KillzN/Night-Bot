@@ -1,12 +1,12 @@
-// adaptado por Diego : KILLZN - BOT
+// adaptado por Diego : 𝐍𝐈𝐆𝐇𝐓 𝐁𝐎𝐓 - BOT
 
 import axios from 'axios';
 
 let previousCommitSHA = '';
 let previousUpdatedAt = '';
 let previousCommitUser = ''; 
-const owner = 'KillzN';
-const repo = 'KILLZN - BOT';
+const owner = 'Night';
+const repo = '𝐍𝐈𝐆𝐇𝐓 𝐁𝐎𝐓 - BOT';
 const handler = async (m, {conn, text, usedPrefix, command}) => {
   const datas = global
   const idioma = datas.db.data.users[m.sender].language
@@ -36,6 +36,6 @@ try {
 m.reply(e)
 }
 };
-handler.command = /^(actualizacion|actualizaciones)/i;
+handler.command = /^(actualizaawdacion|acdtualizaciones)/i;
 handler.rowner = true;
 export default handler;

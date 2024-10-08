@@ -1,7 +1,7 @@
 {
     "___creditos": {
         "___Contribuidor": "https://github.com/jeffersonalionco",
-        "___Criador": "https://github.com/KillzN"
+        "___Criador": "https://github.com/Night"
     },
     "plugins": {
         "antiarab": {
@@ -799,7 +799,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "[❗] Enter a YouTube link.",
-            "texto2": "🤴🏻 Download by KillzN & TheMystic-Bot-MD 🤖"
+            "texto2": "🤴🏻 Download by Night & TheMystic-Bot-MD 🤖"
         },
         "downloader_ytv_2": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Enter the command followed by the YouTube video link*",
@@ -2189,7 +2189,7 @@
                 "*[❗ INFORMATION ❗] IT WAS NOT POSSIBLE TO ADD THE",
                 "ACCOUNT BECAUSE THERE WAS A PROBLEM THIS IS KNOWN, THE PERSON HAS LEFT THE GROUP OR THE PERSON HAS CANCELED THEIR GROUP PRIVACY IN THEIR GROUP PRIVACY, THE GROUP PRIVACY INVITATION WAS SENT IN THEIR GROUP PRIVACY OR THE PERSON CONFIRMED THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL SEND THE GROUP INVITATION IN THEIR GROUP PRIVACY, I INVITE YOU TO THE GROUP INVITATION IN THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL SEND THE GROUP INVITATION TO THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL MAKE SURE THAT THE GROUP INVITATION IS SENT TO THEIR GROUP PRIVACY, THE ADMINISTRATORS WILL GUARANTEE THAT THE GROUP INVITATION IS SENT TO THEIR GROUP PRIVACY!!*"
             ],
-            "texto4": "Hi!! Hello, let me introduce myself, I am KillzN and I am a Bot for WhatsApp. Someone from the group used the command to add you to the group, but I couldn't add you, so I'm sending you the invitation so you can join us. We are waiting for you!!",
+            "texto4": "Hi!! Hello, let me introduce myself, I am Night and I am a Bot for WhatsApp. Someone from the group used the command to add you to the group, but I couldn't add you, so I'm sending you the invitation so you can join us. We are waiting for you!!",
             "texto5": "*[❗ INFORMATION ❗] IT WAS NOT POSSIBLE TO ADD YOUR NUMBER BECAUSE THERE WAS A PROBLEM. KNOW THAT THE PERSON LEFT THE GROUP OR THE PERSON CANCELED THEIR GROUP PRIVACY IN THEIR GROUP PRIVACY SETTING. THE INVITATION WAS SENT TO THE GROUP IN THEIR GROUP PRIVACY SETTING OR THE PERSON CONFIRMED THEIR GROUP PRIVACY. THE ADMINISTRATORS WILL SEND THE GROUP INVITATION IN THEIR GROUP PRIVACY SETTING. I INVITE YOU TO THE GROUP INVITATION IN THEIR GROUP PRIVACY SETTING. THE ADMINISTRATORS WILL SEND THE GROUP INVITATION TO YOUR GROUP PRIVACY SETTING. THE ADMINISTRATORS WILL MAKE SURE THAT THE GROUP INVITATION IS SENT TO YOUR GROUP PRIVACY SETTING. THE ADMINISTRATORS WILL ENSURE THAT THE GROUP INVITATION IS SENT TO YOUR GROUP PRIVACY SETTING!!*"
         },
         "gc_admins": {
@@ -2411,15 +2411,15 @@
             "texto1": [
                 "*[❗] You are in a conversation or order to use the chatbot function*\n\n*—◉ Examples of Petitions and Orders*\n*◉ Reflection on the Netflix series Merlin 2022*\n*◉ JS code for a card game*"
             ],
-            "texto2": "You will act as a WhatsApp Bot created by KillzN, you will be KillzN.",
-            "texto3": "You will act as a WhatsApp Bot created by KillzN, you will be KillzN.",
+            "texto2": "You will act as a WhatsApp Bot created by Night, you will be Night.",
+            "texto3": "You will act as a WhatsApp Bot created by Night, you will be Night.",
             "texto4": "*[❗] Error, please try again*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗] You are in a conversation or order to use the chatbot function*\n\n*—◉ Examples of Petitions and Orders*\n*◉ Reflection on the Netflix series Merlin 2022*\n*◉ JS code for a card game*"
             ],
-            "texto2": "You will act as a WhatsApp Bot created by KillzN, you will be KillzN.",
+            "texto2": "You will act as a WhatsApp Bot created by Night, you will be Night.",
             "texto3": "*[❗] Error, please try again*"
         },
         "herramientas_clima": {
@@ -2557,9 +2557,9 @@
             "texto2": "[❗] SELECTED MESSAGE IS NOT A VIEW ONCE (VIEW ALONE)"
         },
         "herramientas_spamwa": {
-            "texto1": "[ ⚠️ ] PLEASE AVOID EXCESSIVE USE OF MESSAGE SPAM!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 56983073328|reply :v|25*",
-            "texto2": "[ ⚠️ ] PLEASE AVOID SPAMMING MESSAGES TO HACK SPAM!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 56983073328|reply :v|25*",
-            "texto3": "[ ⚠️ ] THE QUANTITY SHOULD BE LESS!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 56983073328|reply :v|25*",
+            "texto1": "[ ⚠️ ] PLEASE AVOID EXCESSIVE USE OF MESSAGE SPAM!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 51977593385|reply :v|25*",
+            "texto2": "[ ⚠️ ] PLEASE AVOID SPAMMING MESSAGES TO HACK SPAM!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 51977593385|reply :v|25*",
+            "texto3": "[ ⚠️ ] THE QUANTITY SHOULD BE LESS!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 51977593385|reply :v|25*",
             "texto4": "[ ⚠️ ] MESSAGES SHOULD BE LESS THAN 50 MESSAGES️",
             "texto5": [
                 "[❗] MESSAGE SPAM IS ABOVE LIMIT\nPLEASE CONSULT THE ADMIN\nEMERGENCY CONTACT:\n*—◉",
@@ -2620,20 +2620,20 @@
         },
         "info_creador": {
             "texto1": [
-                "—◉ My creator's number is wa.me/56983073328",
-                "—◉ Collaborator 1's number is wa.me/56983073328",
-                "—◉ Collaborator 2's number is wa.me/56983073328",
-                "—◉ Collaborator 3's number is wa.me/56983073328",
-                "—◉ Collaborator 4's number is wa.me/56983073328",
-                "—◉ Collaborator 5's number is wa.me/56983073328",
-                "—◉ Collaborator 6's number is wa.me/56983073328",
-                "—◉ Collaborator 7's number is wa.me/56983073328",
-                "—◉ Collaborator 8's number is wa.me/56983073328",
-                "—◉ Collaborator 9's number is wa.me/56983073328",
-                "—◉ Collaborator 10's number is wa.me/56983073328",
+                "—◉ My creator's number is wa.me/51977593385",
+                "—◉ Collaborator 1's number is wa.me/51977593385",
+                "—◉ Collaborator 2's number is wa.me/51977593385",
+                "—◉ Collaborator 3's number is wa.me/51977593385",
+                "—◉ Collaborator 4's number is wa.me/51977593385",
+                "—◉ Collaborator 5's number is wa.me/51977593385",
+                "—◉ Collaborator 6's number is wa.me/51977593385",
+                "—◉ Collaborator 7's number is wa.me/51977593385",
+                "—◉ Collaborator 8's number is wa.me/51977593385",
+                "—◉ Collaborator 9's number is wa.me/51977593385",
+                "—◉ Collaborator 10's number is wa.me/51977593385",
                 "—◉ Collaborator 11's contact is https://instagram.com/gata_dios",
-                "—◉ Collaborator 12's number is wa.me/56983073328",
-                "—◉ Collaborator 13 in Brazil's number is wa.me/56983073328"
+                "—◉ Collaborator 12's number is wa.me/51977593385",
+                "—◉ Collaborator 13 in Brazil's number is wa.me/51977593385"
             ],
             "texto2": [
                 "「 Hello World 」",
@@ -2654,14 +2654,14 @@
                 "➤ PAYPAL: https://www.paypal.me/ineffablexmvrco",
                 "👉🏻 CONTACT IF NECESSARY",
                 "MORE DATA AND TO THANK",
-                "wa.me/56983073328"
+                "wa.me/51977593385"
             ]
         },
         "info_estado": {
             "texto1": [
                 "*< INFORMATION - STATE />*_",
                 "▢ *Owner:* Bruno Sobrino",
-                "▢ *WA:* +56983073328",
+                "▢ *WA:* +51977593385",
                 "▢ *PayPal:* paypal.me/TheShadowBrokers133",
                 "▢ *Ping:*",
                 "▢ *Uptime:*",
@@ -2882,7 +2882,7 @@
         },
         "menu_menu": {
             "texto1": [
-                "KillzN",
+                "Night",
                 "▢ *Hello,*",
                 "_*< YOUR STATISTICS />*_",
                 "▢ *Level:* ",
@@ -3362,7 +3362,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamonds* 💎",
                 "Tokens* 🪙",
-                "KillzNCoins* 👾",
+                "NightCoins* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3416,7 +3416,7 @@
                 "TO CLAIM AGAIN"
             ],
             "texto3": [
-                "╭━━🎁━🎁━🎁━━⬣",
+                "*┏━━🎁━🎁━🎁━━⬣",
                 "┃ ✨ YOU RECEIVED A GIFT!!",
                 "🎟️ Premium Reward",
                 "🆓 Free Reward",
@@ -3485,7 +3485,7 @@
                 "*—◉ Keep exploring and completing missions to reach new heights in the Guild of Adventurers. Keep interacting with the Bot!*"
             ]
         },
-        "rpg_minar_KillzNCoins": {
+        "rpg_minar_NightCoins": {
             "texto1": [
                 "What a pro 😎 you mined",
                 "🌟✨ Cool!! You receive",

@@ -13,7 +13,7 @@ const handler = async (m, {conn, usedPrefix, command}) => {
   const donar =`
 *┏ ┅ ━━━━━━━━━━━━━━━━━ ┅ ━*
 *┇          「 ${tradutor.texto1[0]} 」*
-*┣ ┅ ━━━━━━━━━━━━━━━━━ ┅ ━*
+*┣━┅ ━━━━━━━━━━━━━━━━━ ┅ ━*
 *┃ ${tradutor.texto1[1]} ${name}*
 *┃*
 *┃ ${tradutor.texto1[2]}*

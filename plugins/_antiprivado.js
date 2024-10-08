@@ -1,4 +1,4 @@
-// KILLZN - BOT@KillzN - _antiprivado.js
+// 𝐍𝐈𝐆𝐇𝐓 𝐁𝐎𝐓 - BOT@Night - _antiprivado.js
 
    // Para configurar o idioma, na raiz do projeto altere o arquivo config.json
   // Para configurar el idioma, en la raíz del proyecto, modifique el archivo config.json.

@@ -29,7 +29,7 @@ const handler = async (m) => {
 
     const apiTitle = `${title} - ${subtitle || ''}`;
 
-    let url = 'https://github.com/BrunoSobrino'; 
+    let url = 'instagram/ineffable.mvrco'; 
     try {
       const response = await fetch(`${global.MyApiRestBaseUrl}/api/ytplay?text=${apiTitle}&apikey=${global.MyApiRestApikey}`);
       const data = await response.json();

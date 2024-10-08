@@ -52,7 +52,7 @@ const handler = async (m, {conn, args}) => {
         conn.reply(m.chat, 'https://chat.whatsapp.com/' + await conn.groupInviteCode(group), m, {
            contextInfo: {externalAdReply: {mediaUrl: null, mediaType: 1, description: null,
            title: tradutor.texto1[0],
-           body: 'KillzN',
+           body: 'Night',
            previewType: 0, thumbnail: fs.readFileSync('./Menu2.jpg'),
            sourceUrl: `https://instagram.com/ineffable.mvrco`}
            }

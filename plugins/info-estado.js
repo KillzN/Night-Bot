@@ -31,8 +31,8 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'The Mystic Bot';
   const info = ` ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} KillzN
-  ${tradutor.texto1[2]} +56983073328
+  ${tradutor.texto1[1]} Night
+  ${tradutor.texto1[2]} +51977593385
   ${tradutor.texto1[3]} https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
 
   ${tradutor.texto1[4]} ${rtime}
@@ -75,7 +75,7 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://www.instagram.com/ineffable.mvrco/",
         mediaType: 2,
         previewType: "pdf",
-        title: "KillzN",
+        title: "Night",
         body: tradutor.texto2,
         thumbnail: imagen1,
         sourceUrl: "https://www.instagram.com/ineffable.mvrco/",

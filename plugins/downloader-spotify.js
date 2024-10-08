@@ -1,4 +1,4 @@
-// KILLZN - BOT@KillzN - descargas-spotify.js
+// 𝐍𝐈𝐆𝐇𝐓 𝐁𝐎𝐓 - BOT@Night - descargas-spotify.js
 // Creditos de los tags a @darlyn1234 y diseño a @ALBERTO9883
 import fetch from 'node-fetch';
 import fs from 'fs';
@@ -68,7 +68,7 @@ const handler = async (m, { conn, text }) => {
     const img = await (await fetch(`${spty.data.cover_url}`)).buffer()  
     const letra_s = await find_lyrics(spty.data.name ? spty.data.name : '');
     let letra;
-    letra = `${letra_s ? letra_s + '\n\n🤴🏻 Descarga por KillzN & KILLZN - BOT 🤖' : '🤴🏻 Descarga por KillzN & KILLZN - BOT 🤖'}`  
+    letra = `${letra_s ? letra_s + '\n\n🤴🏻 Descarga por Night & 𝐍𝐈𝐆𝐇𝐓 𝐁𝐎𝐓 - BOT 🤖' : '🤴🏻 Descarga por Night & 𝐍𝐈𝐆𝐇𝐓 𝐁𝐎𝐓 - BOT 🤖'}`  
     const tags = {
       title: spty.data.name || '-',
       artist: artist,

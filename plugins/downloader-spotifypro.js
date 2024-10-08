@@ -1,4 +1,4 @@
-// TheMystic-Bot-MD@KillzN - descargas-spotifypro.js
+// TheMystic-Bot-MD@Night - descargas-spotifypro.js
 // Creditos de los tags a @darlyn1234 y diseño a @ALBERTO9883
 // Este plugins descarga por texto, album, track o playlist de spotify.
 import pkg from 'sanzy-spotifydl'; 

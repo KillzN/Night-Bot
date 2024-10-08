@@ -1,7 +1,7 @@
 {
     "__creditos": {
         "__Contribuidor": "https://github.com/jeffersonalionco",
-        "__Criador": "https://github.com/KillzN"
+        "__Criador": "https://github.com/Night"
     },
     "plugins": {
         "antiarab": {
@@ -795,7 +795,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "[❗] Entrez un lien YouTube.",
-            "texto2": "🤴🏻 Téléchargé par KillzN & KILLZN - BOT 🤖"
+            "texto2": "🤴🏻 Téléchargé par Night & 𝐍𝐈𝐆𝐇𝐓 𝐁𝐎𝐓"
         },
         "downloader_ytv_2": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Entrez la commande plus le lien de la vidéo YouTube*",
@@ -1882,7 +1882,7 @@
                 "*[❗] INFORMATION : IMPOSSIBLE D'AJOUTER",
                 "À VOTRE COMPTE CAR UN PROBLÈME EST SURVENU. VEUILLEZ NOTER QUE LA PERSONNE A QUITTÉ LE GROUPE OU A ANNULÉ SA CONFIDENTIALITÉ DE GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. L'INVITATION A ÉTÉ ENVOYÉE AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE OU LA PERSONNE A CONFIRMÉ SA CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRONT L'INVITATION AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. JE VOUS INVITE À L'INVITATION AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRO..."
             ],
-            "texto4": "Salut !! Bonjour, je me présente, je suis KillzN et je suis un Bot pour WhatsApp. Quelqu'un du groupe a utilisé la commande pour vous ajouter au groupe, mais je n'ai pas pu vous ajouter, donc je vous envoie l'invitation pour que vous nous rejoigniez. Nous vous attendons !!",
+            "texto4": "Salut !! Bonjour, je me présente, je suis Night et je suis un Bot pour WhatsApp. Quelqu'un du groupe a utilisé la commande pour vous ajouter au groupe, mais je n'ai pas pu vous ajouter, donc je vous envoie l'invitation pour que vous nous rejoigniez. Nous vous attendons !!",
             "texto5": "*[❗] INFORMATION : IMPOSSIBLE D'AJOUTER VOTRE NUMÉRO CAR UN PROBLÈME EST SURVENU. VEUILLEZ NOTER QUE LA PERSONNE A QUITTÉ LE GROUPE OU A ANNULÉ SA CONFIDENTIALITÉ DE GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE. L'INVITATION A ÉTÉ ENVOYÉE AU GROUPE DANS SES PARAMÈTRES DE CONFIDENTIALITÉ DE GROUPE OU LA PERSONNE A CONFIRMÉ SA CONFIDENTIALITÉ DE GROUPE. LES ADMINISTRATEURS ENVERRON..."
         },
         "gc_admins": {
@@ -2104,15 +2104,15 @@
             "texto1": [
                 "*[❗] Vous êtes dans une conversation ou vous devez utiliser la fonction de chatbot*\n\n*—◉ Exemples de demandes et d'ordres*\n*◉ Réflexion sur la série Merlina 2022 de Netflix*\n*◉ Code en JS pour un jeu de cartes*"
             ],
-            "texto2": "Vous agirez en tant que Bot WhatsApp créé par KillzN, vous serez KillzN.",
-            "texto3": "Vous agirez en tant que Bot WhatsApp créé par KillzN, vous serez KillzN.",
+            "texto2": "Vous agirez en tant que Bot WhatsApp créé par Night, vous serez Night.",
+            "texto3": "Vous agirez en tant que Bot WhatsApp créé par Night, vous serez Night.",
             "texto4": "*[❗] Erreur, veuillez réessayer*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗] Vous êtes dans une conversation ou vous devez utiliser la fonction de chatbot*\n\n*—◉ Exemples de demandes et d'ordres*\n*◉ Réflexion sur la série Merlina 2022 de Netflix*\n*◉ Code en JS pour un jeu de cartes*"
             ],
-            "texto2": "Vous agirez en tant que Bot WhatsApp créé par KillzN, vous serez KillzN.",
+            "texto2": "Vous agirez en tant que Bot WhatsApp créé par Night, vous serez Night.",
             "texto3": "*[❗] Erreur, veuillez réessayer*"
         },
         "herramientas_clima": {
@@ -2250,9 +2250,9 @@
             "texto2": "*[❗] LE MESSAGE SÉLECTIONNÉ N'EST PAS UNE VUE UNIQUE (VOIR SEUL)*"
         },
         "herramientas_spamwa": {
-            "texto1": "*[ ⚠️ ] S'IL VOUS PLAÎT, N'ABUSEZ PAS DE L'ENVOI DE SPAMS DE MESSAGES !*\n*COMMENT UTILISER :*\n*—◉ #spamwa numéro|texte|quantité*\n*EXEMPLE :*\n*—◉ #spamwa 56983073328|résponse :v|25*",
-            "texto2": "*[ ⚠️ ] S'IL VOUS PLAÎT, ÉVITEZ D'ENVOYER DES SPAMS DE MESSAGES POUR HACKER LE SPAM !*\n*COMMENT UTILISER :*\n*—◉ #spamwa numéro|texte|quantité*\n*EXEMPLE :*\n*—◉ #spamwa 56983073328|résponse :v|25*",
-            "texto3": "*[ ⚠️ ] LA QUANTITÉ DOIT ÊTRE PLUS PETITE !*\n*COMMENT UTILISER :*\n*—◉ #spamwa numéro|texte|quantité*\n*EXEMPLE :*\n*—◉ #spamwa 56983073328|résponse :v|25*",
+            "texto1": "*[ ⚠️ ] S'IL VOUS PLAÎT, N'ABUSEZ PAS DE L'ENVOI DE SPAMS DE MESSAGES !*\n*COMMENT UTILISER :*\n*—◉ #spamwa numéro|texte|quantité*\n*EXEMPLE :*\n*—◉ #spamwa 51977593385|résponse :v|25*",
+            "texto2": "*[ ⚠️ ] S'IL VOUS PLAÎT, ÉVITEZ D'ENVOYER DES SPAMS DE MESSAGES POUR HACKER LE SPAM !*\n*COMMENT UTILISER :*\n*—◉ #spamwa numéro|texte|quantité*\n*EXEMPLE :*\n*—◉ #spamwa 51977593385|résponse :v|25*",
+            "texto3": "*[ ⚠️ ] LA QUANTITÉ DOIT ÊTRE PLUS PETITE !*\n*COMMENT UTILISER :*\n*—◉ #spamwa numéro|texte|quantité*\n*EXEMPLE :*\n*—◉ #spamwa 51977593385|résponse :v|25*",
             "texto4": "*[ ⚠️ ] LES MESSAGES DOIVENT ÊTRE MOINS DE 50 MESSAGES*️",
             "texto5": [
                 "*[❗] LES SPAMS DE MESSAGES DÉPASSANT LA LIMITE*\n*S'IL VOUS PLAÎT, CONTACTEZ L'ADMIN*\n*CONTACT D'URGENCE :*\n*—◉",
@@ -2313,20 +2313,20 @@
         },
         "info_creador": {
             "texto1": [
-                "*—◉ Le numéro de mon créateur est wa.me/56983073328*",
-                "*—◉ Le numéro du collaborateur 1 est wa.me/56983073328*",
-                "*—◉ Le numéro du collaborateur 2 est wa.me/56983073328*",
-                "*—◉ Le numéro du collaborateur 3 est wa.me/56983073328*",
-                "*—◉ Le numéro du collaborateur 4 est wa.me/56983073328*",
-                "*—◉ Le numéro du collaborateur 5 est wa.me/56983073328*",
-                "*—◉ Le numéro du collaborateur 6 est wa.me/56983073328*",
-                "*—◉ Le numéro du collaborateur 7 est wa.me/56983073328*",
-                "*—◉ Le numéro du collaborateur 8 est wa.me/56983073328*",
-                "*—◉ Le numéro du collaborateur 9 est wa.me/56983073328*",
-                "*—◉ Le numéro du collaborateur 10 est wa.me/56983073328*",
+                "*—◉ Le numéro de mon créateur est wa.me/51977593385*",
+                "*—◉ Le numéro du collaborateur 1 est wa.me/51977593385*",
+                "*—◉ Le numéro du collaborateur 2 est wa.me/51977593385*",
+                "*—◉ Le numéro du collaborateur 3 est wa.me/51977593385*",
+                "*—◉ Le numéro du collaborateur 4 est wa.me/51977593385*",
+                "*—◉ Le numéro du collaborateur 5 est wa.me/51977593385*",
+                "*—◉ Le numéro du collaborateur 6 est wa.me/51977593385*",
+                "*—◉ Le numéro du collaborateur 7 est wa.me/51977593385*",
+                "*—◉ Le numéro du collaborateur 8 est wa.me/51977593385*",
+                "*—◉ Le numéro du collaborateur 9 est wa.me/51977593385*",
+                "*—◉ Le numéro du collaborateur 10 est wa.me/51977593385*",
                 "*—◉ Le contact du collaborateur 11 est https://instagram.com/gata_dios*",
-                "*—◉ Le numéro du collaborateur 12 est wa.me/56983073328*",
-                "*—◉ Le numéro du collaborateur 13 au Brésil est wa.me/56983073328*"
+                "*—◉ Le numéro du collaborateur 12 est wa.me/51977593385*",
+                "*—◉ Le numéro du collaborateur 13 au Brésil est wa.me/51977593385*"
             ],
             "texto2": [
                 "「 Bonjour le Monde 」",
@@ -2347,14 +2347,14 @@
                 "➤ PAYPAL : https://www.paypal.me/ineffablexmvrco",
                 "👉🏻 CONTACTEZ-NOUS EN CAS DE BESOIN",
                 "PLUS DE DONNÉES ET POUR REMERCIER",
-                "wa.me/56983073328"
+                "wa.me/51977593385"
             ]
         },
         "info_estado": {
             "texto1": [
                 "*< INFORMATIONS - ÉTAT />*_",
                 "▢ *Prop. :* Bruno Sobrino",
-                "▢ *WA :* +56983073328",
+                "▢ *WA :* +51977593385",
                 "▢ *PayPal :* https://www.paypal.me/ineffablexmvrco",
                 "▢ *Ping :*",
                 "▢ *Temps d'activité :*",
@@ -3055,7 +3055,7 @@
                 "║┈┈┈┈┈┈┈┈┈┈┈┈┈",
                 "Diamants* 💎",
                 "Jetons* 🪙",
-                "KillzNCoins* 👾",
+                "NightCoins* 👾",
                 "Exp* ⚡",
                 "╚═════════════════⬣"
             ]
@@ -3109,7 +3109,7 @@
                 "POUR RÉCLAMER À NOUVEAU"
             ],
             "texto3": [
-                "╭━━🎁━🎁━🎁━━⬣",
+                "*┏━━🎁━🎁━🎁━━⬣",
                 "┃ ✨ VOUS AVEZ REÇU UN CADEAU !!",
                 "🎟️ Récompense Premium",
                 "🆓 Récompense Gratuite",
@@ -3178,7 +3178,7 @@
                 "*—◉ Continuez à explorer et à accomplir des missions pour atteindre de nouveaux sommets dans la Guilde des Aventuriers. Continuez à interagir avec le Bot !*"
             ]
         },
-        "rpg_minar_KillzNCoins": {
+        "rpg_minar_NightCoins": {
             "texto1": [
                 "Quel pro 😎 vous avez miné",
                 "🌟✨ Génial !! Vous recevez",

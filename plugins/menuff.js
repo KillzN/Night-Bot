@@ -25,37 +25,39 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = ` *⌜ 𝗠𝗘𝗡𝗨 | 𝗩𝗘𝗥𝗦𝗨𝗦 ⌟*
+    const str = ` **┏━━━━━━━━ ⋆⋅🦇⋅⋆ ━━━━━━━━╮
+                  𝗠𝗘𝗡𝗨	𝗩𝗘𝗥𝗦𝗨𝗦
+╰━━━━━━━━ ⋆⋅🩸⋅⋆ ━━━━━━━━╯*
 
-━━━━━━━━━━━━━━━━━━━
-☁️ 𝗥𝗘𝗚𝗜𝗢𝗡 𝗦𝗨𝗥 ( 𝗩𝗜𝗩𝗜𝗗𝗢 )
-━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━
+⚔️ 𝗥𝗘𝗚𝗜𝗢𝗡 𝗦𝗨𝗥 / 𝗩𝗜𝗩𝗜𝗗𝗢 
+━━━━━━━━━━━━━━━━━━━━━
 ⊹ *${usedPrefix}4vs4a1*
 ⊹ *${usedPrefix}4vs4a2*
 ⊹ *${usedPrefix}4vs4a3*
 ⊹ *${usedPrefix}4vs4a4*
 ⊹ *${usedPrefix}4vs4a5*
 ⊹ *${usedPrefix}4vs4a6*
-━━━━━━━━━━━━━━━━━━━
-☁️ 𝗥𝗘𝗚𝗜𝗢𝗡 𝗦𝗨𝗥 ( 𝗜𝗡𝗙𝗜𝗡𝗜𝗧𝗢 )
-━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━
+💣 𝗥𝗘𝗚𝗜𝗢𝗡 𝗦𝗨𝗥 / 𝗜𝗡𝗙𝗜𝗡𝗜𝗧𝗢
+━━━━━━━━━━━━━━━━━━━━━
 ⊹ *${usedPrefix}4vs4b1*
 ⊹ *${usedPrefix}4vs4b2*
 ⊹ *${usedPrefix}4vs4b3*
 ⊹ *${usedPrefix}4vs4b4*
 ⊹ *${usedPrefix}4vs4b5*
-━━━━━━━━━━━━━━━━━━━
-⭐ 𝗥𝗘𝗚𝗜𝗢𝗡 𝗡𝗢𝗥𝗧𝗘 ( 𝗖𝗟𝗞 )
-━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━
+🏹 𝗥𝗘𝗚𝗜𝗢𝗡 𝗡𝗢𝗥𝗧𝗘 / 𝗖𝗟𝗞 
+━━━━━━━━━━━━━━━━━━━━━
 ⊹ *${usedPrefix}4vs4n1*
 ⊹ *${usedPrefix}4vs4n2*
 ⊹ *${usedPrefix}4vs4n3*
 ⊹ *${usedPrefix}4vs4n4*
 ⊹ *${usedPrefix}4vs4n5*
 ⊹ *${usedPrefix}4vs4n6*
-━━━━━━━━━━━━━━━━━━━
-⭐ 𝗥𝗘𝗚𝗜𝗢𝗡 𝗡𝗢𝗥𝗧𝗘 ( 𝗜𝗡𝗙𝗜𝗡𝗜𝗧𝗢 )
-━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━
+🛡️ 𝗥𝗘𝗚𝗜𝗢𝗡 𝗡𝗢𝗥𝗧𝗘 / 𝗜𝗡𝗙𝗜𝗡𝗜𝗧𝗢
+━━━━━━━━━━━━━━━━━━━━━
 ⊹ *${usedPrefix}4vs4d1*
 ⊹ *${usedPrefix}4vs4d2*
 ⊹ *${usedPrefix}4vs4d3*
@@ -75,7 +77,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     conn.reply(m.chat, tradutor.texto1[3], m);
   }
 };
-handler.command = /^(menuff|menuff|𝐊𝐈𝐋𝐋𝐙𝐍vs)$/i;
+handler.command = /^(menuff|menuff|nightvs)$/i;
 handler.exp = 50;
 handler.fail = null;
 export default handler;

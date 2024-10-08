@@ -1,5 +1,5 @@
 /*              Codigo Creado Por Bruno Sobrino
-      (https://github.com/KillzN/KILLZN - BOT)
+      (https://github.com/Night/𝐍𝐈𝐆𝐇𝐓 𝐁𝐎𝐓 - BOT)
 */
 
 

@@ -1,7 +1,7 @@
 // Code by Xnuvers007 ft. Jikarinka
 // https://github.com/Xnuvers007/
 // 
-// Mejorado por @KillzN
+// Mejorado por @Night
 ////////////////////////////////////
 
 import axios from 'axios';
